@@ -1,0 +1,29 @@
+.leaderboard-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.leaderboard-card {
+    width: 400px;
+    padding: 20px;
+    text-align: center;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.leaderboard-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.leaderboard-item {
+    font-size: 18px;
+    margin: 10px 0;
+    background-color: #ffffff;
+    padding: 8px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}

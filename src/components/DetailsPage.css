@@ -1,0 +1,41 @@
+/* Set full-screen background */
+body {
+    background: url('../assets/quiz.jpg') no-repeat center center fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Container for the form */
+  .details-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  /* Styling the card */
+  .details-card {
+    background: url('../assets/quiz2.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 350px;
+    text-align: center;
+  }
+  
+  /* Styling the input fields */
+  .details-textfield {
+    margin-bottom: 15px !important;
+  }
+  
+  /* Styling the button */
+  .details-button {
+    margin-top: 15px !important;
+  }
+  
