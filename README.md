@@ -11,6 +11,12 @@ A simple and interactive Quiz Application built using **React** and **Material-U
  - Leaderboard– Displays random player names and scores.  
  - Responsive Design – Looks great on any device.  
 
----
+
+
+![Alt Text](https://github.com/Kasireddynanda/Quiz/blob/3ac187518a5822004b636ddd415162e43a1ad31d/quiz.png)
+![Alt Text](https://github.com/Kasireddynanda/Quiz/blob/3ac187518a5822004b636ddd415162e43a1ad31d/quiz2.png)
+![Alt Text](https://github.com/Kasireddynanda/Quiz/blob/3ac187518a5822004b636ddd415162e43a1ad31d/quiz3.png)
+
+
 
 
